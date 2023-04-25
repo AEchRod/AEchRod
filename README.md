@@ -36,13 +36,15 @@
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 </p>
-
-  <p align="center"><b>👇Feel free to reach me at👇</b></p>
+  
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AEchRod&theme=city_lights)
+ 
+ 
+   <p align="center"><b>👇Feel free to reach me at👇</b></p>
 <p align="center">
    <a href="https://www.linkedin.com/in/andres-echeverry-rodriguez" target="_blank">
   <img  src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 </a>
-  
 
 
 <!--
