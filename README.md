@@ -8,7 +8,8 @@
 </p>
 
 
-##### Currently enrolled in the Meta Backend Developer Professional Certificate, where I have learnt the basics of HTML and CSS and have delved into the theory behind APIs such as HTTP requests and currently learning to compose APIs with the Django framework. I have previous experience working with Flask and have worked for a in developing an app for a start-up called Senniors, using FastAPI and SQLite stack.
+<h5> Currently enrolled in the Meta Backend Developer Professional Certificate, where I have learnt the basics of HTML and CSS and have delved into the theory behind APIs such as HTTP requests and currently learning to compose APIs with the Django framework. 
+<br>I have previous experience working with Flask and have worked for a in developing an app for a start-up called Senniors, using FastAPI and SQLite stack.</br></h5>
 
 #### 👨‍💻 Literate in:
 
